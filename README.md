@@ -43,7 +43,7 @@ The frequency and significance of factors were analyzed in the ML notebook. They
 For a detailed understanding of the methods and results, please refer to the publication.
 
 ## Contributions and Support
-Feel free to contribute by opening issues or submitting pull requests. For questions or support, contact [your email address].
+Feel free to contribute by opening issues or submitting pull requests.
 
 ## License
 This project is licensed under the MIT License.
