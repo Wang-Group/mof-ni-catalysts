@@ -28,7 +28,7 @@ Install the dependencies using pip.
 
 ## Usage
 ### 1. Calculating Descriptors of Synthesized MOFs
-The MOF descriptors for the synthesized MOFs were calculated acccording to the methods described in the [ARC-MOF paper](https://pubs.acs.org/doi/abs/10.1021/acs.chemmater.2c02485). Please refer to [mof_descriptor_calculator](https://github.com/Wang-Group/mof_descriptor_calculator) for the details to calculate the descriptors.
+The MOF descriptors for the synthesized MOFs were calculated according to the methods described in the [ARC-MOF paper](https://pubs.acs.org/doi/abs/10.1021/acs.chemmater.2c02485). Please refer to [mof_descriptor_calculator](https://github.com/Wang-Group/mof_descriptor_calculator) for the details to calculate the descriptors.
 
 ### 2. Factor Analysis of the Existing MOF Dataset
 The factor analysis of the MOF dataset was performed in [MOFscreen_FA.ipynb](./Machine_learning/MOFscreen_FA.ipynb). The correlation of the factors and the descriptors are shown in the output panel of the notebook. 
