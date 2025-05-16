@@ -1,7 +1,7 @@
 # MOF-Ni-Catalysts
 
-## Interpretable Machine Learning Reveals Structural Insights into Selective C–H Borylation by Metal-Organic Framework-Supported Ni Catalysts
-This repository contains the source codes and documentation used in the publication **"Interpretable Machine Learning Reveals Structural Insights into Selective C–H Borylation by Metal-Organic Framework-Supported Ni Catalysts"**. It provides tools for descriptor calculation, factor analysis, dimension reduction, and machine learning workflows.
+## Machine Learning Reveals In-Cavity Versus Surface Activity for Selective C─H Borylation by Metal-Organic Framework Catalysts
+This repository contains the source codes and documentation used in the publication **"Machine Learning Reveals In-Cavity Versus Surface Activity for Selective C─H Borylation by Metal-Organic Framework Catalysts"**. It provides tools for descriptor calculation, factor analysis, dimension reduction, and machine learning workflows.
 
 ---
 
